@@ -1,5 +1,5 @@
 # Mi-primer-repositorio
-#Crear un código paso a paso.
+# Crear un código paso a paso.
 
 Paso 0) Ejecutar en consola un git clone 
 
