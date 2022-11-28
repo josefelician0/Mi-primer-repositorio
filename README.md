@@ -11,19 +11,23 @@ Paso 3) En la terminal ir a la ruta de donde se descargo el repositorio y ejecut
 
 # Materia
 
-Paradigmas:
+Paradigmas o paradigma de programacion: Un paradigma de programacion es un estilo o manera de programacion de software.
 
-Reactivo: reacciona al cambio
+Ejemplos de paradigmas: Imperativo, Declarativo, Lógico, funcional y Orientada a objetos.
 
-Funcionales: ?
+P.O.O.: Es un paradigma de progamacion que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y logica.
 
-Estructura: ?
+Reactivo: 
 
-Lenguaje Compilado: Tipo de lenguaje de programacion, que agarra todo el codigo que transforma en maquina y lo lee entero
+Funcional:
 
-Ejemplo: phyton, 
+Lenguaje Interpretado: En un lenguaje interpretado, el codigo fuente no es directamente traducido por la maquina de destino. En cambio, un distinto programa, mejor conocido como interprete, lee el codigo y lo ejecuta.
 
-Qué es P.O.O.: Es un paradigma de progamacion que 
+Ejemplos: Python, PHP, Ruby y JavaScript
+
+Lenguaje Compilado: Tipo de lenguaje de programacion, que agarra todo el codigo que transforma en maquina y lo lee entero, es decir, la maquina de destino traduce directamente el programa.
+
+Ejemplo: c, c++, erlang, haskell, rust, go, etc.
 
 Camel case: Una mayuscula.
 
