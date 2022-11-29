@@ -11,9 +11,11 @@ Paso 3) En la terminal ir a la ruta de donde se descargo el repositorio y ejecut
 
 # Materia
 
-Paradigmas o paradigma de programacion: Un paradigma de programacion es un estilo o manera de programacion de software.
+Paradigmas o paradigma de programacion:Los paradigma de la programación son principios fundamentales para la creación de software, es decir, los distintos estilos que existen para generar código y dar instrucciones a máquinas, computadoras y otros dispositivos. Un paradigma de programacion es un estilo o manera de programacion de software.
 
 Ejemplos de paradigmas: Imperativo, Declarativo, Lógico, funcional y Orientada a objetos.
+
+Declarativo: programación declarativa consiste en decirle a un programa lo que tiene que hacer en lugar de decirle cómo debería hacerlo.
 
 P.O.O.: Es un paradigma de progamacion que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y logica.
 
